@@ -1,0 +1,5 @@
+{
+  "_comment": "Config for the web page, same port as config.yml, ip of the server where the java app is hosted",
+  "host": "127.0.0.1",
+  "port": 8000
+}
